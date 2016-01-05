@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\foldinglayout-1.0.0\samples\Folding\Sample\bin\Debug\Sample.dll
+C:\Users\Administrator\Desktop\foldinglayout-1.0.0\lib\android\Cheesebaron.Folding.dll
+C:\Users\Administrator\Desktop\foldinglayout-1.0.0\samples\Folding\Components\xamandroidsupportv7appcompat-19.1.0\lib\android\Xamarin.Android.Support.v4.dll
+C:\Users\Administrator\Desktop\foldinglayout-1.0.0\samples\Folding\Components\xamandroidsupportv7appcompat-19.1.0\lib\android\Xamarin.Android.Support.v7.AppCompat.dll

@@ -1,0 +1,1 @@
+<Spinner android:layout_width="wrap_content" android:layout_height="wrap_content" android:entries="@array/num_of_folds_array" xmlns:android="http://schemas.android.com/apk/res/android" />
