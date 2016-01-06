@@ -7,3 +7,8 @@
 
 #注意
 项目如果不能运行请从官网下载
+![](https://github.com/huguodong/Foldinglayout/blob/master/1.png)
+![](https://github.com/huguodong/Foldinglayout/blob/master/2.png)
+![](https://github.com/huguodong/Foldinglayout/blob/master/3.png)
+![](https://github.com/huguodong/Foldinglayout/blob/master/4.png)
+![](https://github.com/huguodong/Foldinglayout/blob/master/5.png)
